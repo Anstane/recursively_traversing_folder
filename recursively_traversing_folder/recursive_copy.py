@@ -21,5 +21,5 @@ def recursive_copy(origin, target):
 
 
 if __name__ == '__main__':
-    recursive_copy(origin='C:\\Development\\iphone_photo\\copy', target='C:\\Development\\iphone_photo\\insert')
+    recursive_copy(origin='E:\Фотографии\Фотографии с моего телефона\Фотографии по папкам', target='E:\Фотографии\Фотографии с моего телефона')
     print('Success!')
